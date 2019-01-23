@@ -2,7 +2,7 @@
   "name": "my-weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://akembrar7795.github.io/Weather-App/",
+  "homepage": "https://akembrar7795.github.io/weather-app/",
   "dependencies": {
     "bootstrap": "^4.2.1",
     "gh-pages": "^2.0.1",
